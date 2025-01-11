@@ -29,13 +29,23 @@ Here's how it works in Libre Chat:
 - You can now ask your agent questions and it will have your personal knowledge in its context. 
 - You can also use multimodal engagement if the underlying model supports it!
 
+### Step 1: Create Agent
+
 ![alt text](screenshots/librechat/1.png)
+
+### Step 2: Add system prompt:
 
 ![alt text](screenshots/librechat/2.png)
 
+### Step 3: Select model and set parameters
+
 ![alt text](screenshots/librechat/3.png)
 
+### Step 4: Add context data to knowledge for RAG
+
 ![alt text](screenshots/librechat/4.png)
+
+### Step 5: Query LLM with your data in context!
 
 ![alt text](screenshots/librechat/5.png)
 
