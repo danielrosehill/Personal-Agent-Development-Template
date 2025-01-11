@@ -20,6 +20,25 @@ At the time of writing configuring a personal large language model assistant con
 
 The Daniel's Beer Assistant folder contains an example working of an agent configuration.
 
+Here's how it works in Libre Chat:
+
+- Create a new agent. 
+- Make sure that the file searchability is turned on.
+- Create your context data. 
+- Upload that to the agent, which will put it into RAG. 
+- You can now ask your agent questions and it will have your personal knowledge in its context. 
+- You can also use multimodal engagement if the underlying model supports it!
+
+![alt text](screenshots/librechat/1.png)
+
+![alt text](screenshots/librechat/2.png)
+
+![alt text](screenshots/librechat/3.png)
+
+![alt text](screenshots/librechat/4.png)
+
+![alt text](screenshots/librechat/5.png)
+
 
 ## Use Case Statement
 
